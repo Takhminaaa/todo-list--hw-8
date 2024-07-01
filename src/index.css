@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+body {
+  background-image: url("https://img.freepik.com/free-photo/artificial-green-leaves-with-notebook-on-white_114579-28662.jpg?w=996&t=st=1719789195~exp=1719789795~hmac=080375dd41470024e0dd3892ac530eab35c811b6cf21a84fe6e5adb5804dd785");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#modal {
+  position: absolute;
+  top: 0;
+}
